@@ -1,6 +1,6 @@
 # Mode-1-code-refactor
-<h3 align="center" font color="Blue">Mode 1 code refactor</h3>
-<p align="left" font color="Blue"> My name is Fatima, and i am a learning, future software engiineer, that is always motivated and is always ready to learn new things!</p> 
+<h3 align="center">Mode 1 code refactor</h3>
+<p align="left"> My name is Fatima, and I am currently working to become a future software engiineer, that is always motivated and is always ready to learn new things!</p> 
 
 <p align="left">~ When encountering a website, you want to be able to access it in the best way possible. Being able to make this website accessible for absolutely everyone was the goal. Being able to click on the links and for it to take you to the information you need is what i would want in a website. ALso, being able to have a screen reader is also very helpful.</p>
 
